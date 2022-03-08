@@ -40,7 +40,7 @@ function main() {
 		result.photos.map((e) => {
 		  let itemslist = document.getElementById("container");
 		  let datamap = `<div id="item-div">
-		  <a href="https://www.google.co.in/">
+		  <a href="https://www">
 						  <img
 						  id="div-img"
 						  src="${e.src.medium}"
