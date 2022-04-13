@@ -196,6 +196,11 @@ body{
       box-sizing: border-box;
       /* position: relative; */
   }
+
+
+  .ii{
+    color:red;
+  }
   #flexIMG{
       border-top-left-radius:5px;
       border-top-right-radius:5px;
